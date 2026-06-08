@@ -3,7 +3,7 @@
 O bom software não nasce de atalhos ou tendências passageiras, mas da aplicação rigorosa de fundamentos que resistem ao teste do tempo. Construo sistemas robustos, escaláveis e assumo o controle da arquitetura de ponta a ponta.
 
 ## 📌 Sobre Mim
-* Atuo como **Analista de Suporte** na DSoft Software de Gestão.
+* Atuo como **Analista de Implantação** na DSoft Software de Gestão.
 * Acadêmico de **Sistemas de Informação** na Universidade Federal da Grande Dourados (UFGD).
 * Desenvolvo software de forma autônoma e artesanal, escrevendo a lógica de negócios.
 * Tenho experiência paralela com design e identidade visual (Agência Avance), o que reflete na atenção aos detalhes na camada de front-end.
